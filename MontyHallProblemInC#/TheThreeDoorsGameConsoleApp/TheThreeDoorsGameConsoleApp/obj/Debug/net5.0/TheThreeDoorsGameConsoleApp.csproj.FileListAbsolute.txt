@@ -1,0 +1,16 @@
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\bin\Debug\net5.0\TheThreeDoorsGameConsoleApp.exe
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\bin\Debug\net5.0\TheThreeDoorsGameConsoleApp.deps.json
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\bin\Debug\net5.0\TheThreeDoorsGameConsoleApp.runtimeconfig.json
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\bin\Debug\net5.0\TheThreeDoorsGameConsoleApp.runtimeconfig.dev.json
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\bin\Debug\net5.0\TheThreeDoorsGameConsoleApp.dll
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\bin\Debug\net5.0\ref\TheThreeDoorsGameConsoleApp.dll
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\bin\Debug\net5.0\TheThreeDoorsGameConsoleApp.pdb
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\obj\Debug\net5.0\TheThreeDoorsGameConsoleApp.csproj.AssemblyReference.cache
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\obj\Debug\net5.0\TheThreeDoorsGameConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\obj\Debug\net5.0\TheThreeDoorsGameConsoleApp.AssemblyInfoInputs.cache
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\obj\Debug\net5.0\TheThreeDoorsGameConsoleApp.AssemblyInfo.cs
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\obj\Debug\net5.0\TheThreeDoorsGameConsoleApp.csproj.CoreCompileInputs.cache
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\obj\Debug\net5.0\TheThreeDoorsGameConsoleApp.dll
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\obj\Debug\net5.0\ref\TheThreeDoorsGameConsoleApp.dll
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\obj\Debug\net5.0\TheThreeDoorsGameConsoleApp.pdb
+Z:\TheThreeDoorsGameConsoleApp\TheThreeDoorsGameConsoleApp\obj\Debug\net5.0\TheThreeDoorsGameConsoleApp.genruntimeconfig.cache
