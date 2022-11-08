@@ -1,0 +1,97 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Effect.jpg" />
+    <None Remove="InportantSprites\Background.png" />
+    <None Remove="InportantSprites\Border.png" />
+    <None Remove="InportantSprites\ContestantCursed.png" />
+    <None Remove="InportantSprites\ContestantCursedFocused.png" />
+    <None Remove="InportantSprites\ContestantFocused.png" />
+    <None Remove="InportantSprites\ContestantHappy.png" />
+    <None Remove="InportantSprites\ContestantMoreFocused.png" />
+    <None Remove="InportantSprites\ContestantNeutral.png" />
+    <None Remove="InportantSprites\ContestantSad.png" />
+    <None Remove="InportantSprites\ContestantTalking.png" />
+    <None Remove="InportantSprites\Door1Closed.png" />
+    <None Remove="InportantSprites\Door2Closed.png" />
+    <None Remove="InportantSprites\Door3Closed.png" />
+    <None Remove="InportantSprites\DoorOpenMemeyNoPrize.png" />
+    <None Remove="InportantSprites\DoorOpenNoPrize.png" />
+    <None Remove="InportantSprites\DoorOpenPrize.png" />
+    <None Remove="InportantSprites\HostSilent.png" />
+    <None Remove="InportantSprites\HostTalking.png" />
+    <None Remove="InportantSprites\LargeBorder.png" />
+    <None Remove="TV.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Effect.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\Background.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\Border.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\ContestantCursed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\ContestantCursedFocused.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\ContestantFocused.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\ContestantHappy.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\ContestantMoreFocused.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\ContestantNeutral.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\ContestantSad.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\ContestantTalking.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\Door1Closed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\Door2Closed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\Door3Closed.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\DoorOpenMemeyNoPrize.png" />
+    <Resource Include="InportantSprites\DoorOpenNoPrize.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\DoorOpenPrize.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\HostSilent.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\HostTalking.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="InportantSprites\LargeBorder.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="TV.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>
