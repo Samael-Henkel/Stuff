@@ -242,7 +242,7 @@ namespace TheThreeDoorsGameConsoleApp
             Thread.Sleep(2000);
             Console.WriteLine("Camera Man: The Guy from The Ad");
             Thread.Sleep(2000);
-            Console.WriteLine("Script by LPSam(Pseudonym)");
+            Console.WriteLine("Script by Samael Henkel");
             Thread.Sleep(2000);
         }
         static void AdTime()
