@@ -455,7 +455,7 @@ namespace TheThreeDoorsWPF
                     case 31:
                         Contestant.Visibility = Visibility.Hidden;
                         Talking.Content = "Mr. Breaker: ";
-                        Talked.Content = "See you next Week on...";
+                        Talked.Content = "See you next Time on...";
                         TextNr++;
                         break;
                     case 32:
